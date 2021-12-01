@@ -40,6 +40,7 @@ Here's my tech stack I'm currently used to and prefer:
 ### Stats
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=WaleedAsadullah&theme=nord&hide=stars" />
+<br>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WaleedAsadullah&layout=compact&theme=nord" />
 
  ### Featured
