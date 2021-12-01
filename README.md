@@ -1,14 +1,14 @@
 
 
 <h2> Hi There
-    <img src="https://github.com/WaleedAsadullah/WaleedAsadullah/blob/master/wave.gif" 
+    <img src="https://github.com/WaleedAsadullah/WaleedAsadullah/blob/main/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
          width="45" />
   </h2><h3> I'm Waleed Asad!
 </h3>
 <div >
- <img src="https://github.com/WaleedAsadullah/WaleedAsadullah/blob/master/coding.gif" width="60%"  loop=infinite></div>
+ <img src="https://github.com/WaleedAsadullah/WaleedAsadullah/blob/main/coding.gif" width="60%"  loop=infinite></div>
 
 
 ### Contact
